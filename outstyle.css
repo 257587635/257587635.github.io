@@ -1,0 +1,9 @@
+body{
+    font-family:'宋体', Times, serif;
+    color: red;
+    /* 字体加粗 */
+    font-weight: bold;
+    /* 斜体 */
+    font-style: italic;
+}
+.btn{
